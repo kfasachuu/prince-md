@@ -2,7 +2,7 @@
 
 # `Use This Button To Deploy`
 
-<a href="https://heroku.com/deploy?template=https://github.com/kfasachuu/prince-md"><img title="PRINCE RUDH" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
+<a href="https://gist.github.com/kfasachuu/0aec43a9f9bef1da7268c78577cfae06"><img title="𝗣𝗥𝗜𝗡𝗖𝝣 𝗥𝗨𝗗𝗛" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
     
 
   
@@ -10,15 +10,6 @@
 <br>
 
 <p align="center">
-<strong>PRINCE-RUDH－ＭＤ</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/prince-rudh"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/prince-rudh"><img title="Developer" src="https://img.shields.io/badge/Author-Prince%20Rudh-blue.svg?style=for-the-badge&logo=github" /></a>
+<strong>𝗣𝗥𝗜𝗡𝗖𝝣 𝗥𝗨𝗗𝗛 𝗠𝗗</strong>
 </p>
 <br>
